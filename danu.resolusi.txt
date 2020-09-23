@@ -3,3 +3,4 @@ Danu resolusi:
 - membuat ui mockups di adobe xd
 - belajar di youtube / google
 - belajar vue.js
+- punya wifi dirumah
