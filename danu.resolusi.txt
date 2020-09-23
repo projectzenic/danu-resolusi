@@ -1,4 +1,5 @@
 Danu resolusi:
-- konsisten belajar frontend web
+- konsisten belajar html,css,js
 - membuat ui mockups di adobe xd
 - belajar di youtube / google
+- belajar vue.js
